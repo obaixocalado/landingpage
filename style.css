@@ -1,0 +1,55 @@
+body {
+   background-image: url(Imagens/Foto3.jpg); 
+   background-size: cover; color: black; 
+   text-align: right;
+   margin-right: 65px;
+   margin-top: 50px;
+   font-size: 30px;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {font-size: 70px;
+   font-family: Gloria Hallelujah;
+   color: rgb(105, 5, 5);
+   letter-spacing: -4px; text-align: left; margin-left: 147px;
+   margin-bottom: 0px;
+}
+   h2 {font-family: Gloria Hallelujah;
+      font-size: 40px;
+      letter-spacing: -2px;
+      color: rgb(146, 72, 53);
+   margin-top: -83px;
+   }
+   h3 {font-family: Gloria Hallelujah;
+      font-size: 24px;
+      font-style: oblique;
+      color: rgb(51, 5, 5);
+text-align: center; margin-right: 522px;
+padding-bottom: 0px;
+padding-left: 0px;
+line-height: 30px;}
+      h4 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+         letter-spacing: -2px;
+         font-size: 26px; 
+text-align: right;margin-top: -112px;
+margin-right: 80px;}
+ul {list-style: none;
+   margin-top: 50px;
+margin-right: 200px;}
+   li{display: inline;}
+ul li a {
+   color: rgb(14, 13, 13);
+   text-decoration: none;
+   padding: 25px;}
+   ul li a:hover {opacity: 0.7;}
+   .contato{text-align: right;margin-right: 200px;}
+   .botao{background-color: rgb(252, 6, 6);
+      opacity: 90%;
+      padding: 10px 15px 10px 15px;
+      border-radius: 10px;
+   text-decoration: none;
+color: rgb(0, 6, 10);}
+.botao:hover {
+   background-color: rgb(234, 238, 233);
+}
